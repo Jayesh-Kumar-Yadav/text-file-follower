@@ -207,7 +207,7 @@ Note: All observations are made while using the `{retain:true}` option with [wat
 
 * Make encoding an option?
 
-## Feedback
+## Feedback by you
 
 All bugs, feature requests, feedback, etc., are welcome.
 
